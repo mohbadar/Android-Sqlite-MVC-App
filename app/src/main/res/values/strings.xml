@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Course</string>
+
+
+    <string-array name="action_list">
+
+        <item name="open_terminology">Terminologies</item>
+        <item name="create_terminology">Add New Terminology</item>
+        <item name="open_reading">Readings</item>
+        <item name="create_terminology">Add New Reading</item>
+        <item name="open_post">Posts</item>
+        <item name="open_course">Courses</item>
+
+
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_book_black_24dp"
+            android:title="Posts" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_book_black_24dp"
+            android:title="Courses" />
+        <item
+            android:id="@+id/nav_term"
+            android:icon="@drawable/ic_book_black_24dp"
+            android:title="Termnilogies" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_book_black_24dp"
+            android:title="Readings" />
+    </group>
+</menu>
